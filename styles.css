@@ -8,7 +8,6 @@ header{background-color: royalblue
     text-decoration: none;
     color: red;
 }
-
 .cor-vermelha {
     color: red;
 }
@@ -17,4 +16,33 @@ header{background-color: royalblue
 }
 #header-pesquisa::placeholder{
 color: aqua;
+}
+.formulario-contato p, .formulario-contato h3 {
+    font-size: 18pt;
+}
+.negrito{
+    font-weight: bold;
+}
+.negrito:hover{
+    color: lawngreen;
+}
+img{
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1;
+}
+button{cursor: pointer;}
+
+.formulario-contato {
+background-color: silver;
+border-radius: 10px;
+box-shadow: 1px 1px 20px 5px rgba(0,0,0, 0.1);
+}
+
+.formulario-contato p, .formulario-contato h3 {
+    font-size: 18pt
+}
+.negrito{
+    font-weight: bold;
 }
