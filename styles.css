@@ -1,0 +1,20 @@
+body{margin: 0;
+font-family: sans-serif;
+}
+header{background-color: royalblue
+}
+
+.nav-header a{
+    text-decoration: none;
+    color: red;
+}
+
+.cor-vermelha {
+    color: red;
+}
+#header-pesquisa{
+    color: green;
+}
+#header-pesquisa::placeholder{
+color: aqua;
+}
